@@ -53,11 +53,3 @@ Navigate to any functional project directory and compile using your terminal:
 g++ -std=c++17 main.cpp -o program
 ./program
 
-If you want, I can help you:
-
-* Draft a complete folder structure for this repository
-* Write a specific CMakeLists.txt configuration to compile all modules at once
-* Add specific code snippets to any of these project descriptions
-
-Let me know what you would like to tackle next!
-
